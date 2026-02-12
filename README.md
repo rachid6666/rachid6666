@@ -1,5 +1,4 @@
-- 🫴 A YO, I’m @YG
-- 🌑 I’m interested in Big data
+data engineer x01
 
 <!---
 rachid6666/rachid6666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
